@@ -1,0 +1,27 @@
+.new {
+  /* text-align: center; */
+  height: 300px;
+  width: 300px;
+  
+}
+.red{
+  background-color: red;
+}
+.green{
+  background-color: greenyellow;
+}
+.pink{
+  background-color: pink;
+}
+.purple{
+  background-color: purple;
+}
+.plum{
+  background-color: plum;
+}
+.yellow{
+  background-color: yellow;
+}
+.skyblue{
+  background-color: skyblue;
+}
